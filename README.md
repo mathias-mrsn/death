@@ -10,6 +10,7 @@
     <img alt="Packer" src="https://img.shields.io/badge/Packer-LZSS-red.svg" />
     <img alt="Packer" src="https://img.shields.io/badge/Encryptor-AES_256-red.svg" />
     <img alt="Name" src="https://img.shields.io/badge/Death-8A2BE2" />
+    <a href="https://wakatime.com/badge/user/2d2d729b-8d18-461d-9865-3daf072e743d/project/018b80ad-bdba-43fa-a62a-90b1f1222864"><img src="https://wakatime.com/badge/user/2d2d729b-8d18-461d-9865-3daf072e743d/project/018b80ad-bdba-43fa-a62a-90b1f1222864.svg" alt="wakatime"></a>
 </p>
 
 
